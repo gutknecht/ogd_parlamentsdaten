@@ -24,11 +24,11 @@ Die Datenlagen ist nicht erfasst und beim zusammentragen stellt sich heraus grun
 
 **B** Handlungsempfehlungen
 
-_Rating Stufe 1_: Lokalisierung der Daten in den Organisationen und Klärung der Zuständigkeiten   
-                und Verantwortlichkeiten, Berechtigungen, Nutzungsbedingungen
+_Rating Stufe 1_: 
+Lokalisierung der Daten in den Organisationen und Klärung der Zuständigkeiten und Verantwortlichkeiten, Berechtigungen, Nutzungsbedingungen
                 
-_Rating Stufe 2_: Herausfinden, wer wie und was diese PDFs erstellt/generiert. Möglicherweise kann 
-                man hier schon ansetzen. Bereitstellen von einfachen Mitteln, zum exemplarischer                 Digitalisierung von vorhandenen Daten. Zum Beispiel Auslesen der PDFs. 
+_Rating Stufe 2_:
+Herausfinden, wer wie und was diese PDFs erstellt/generiert. Möglicherweise kann man hier schon ansetzen. Bereitstellen von einfachen Mitteln, zum exemplarischer Digitalisierung von vorhandenen Daten. Zum Beispiel Auslesen der PDFs. 
 
 _Rating Stufe 3_: Parsing von Daten, Bereitstellen von einer API-Verwaltungs-Platform
 
