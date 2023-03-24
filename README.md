@@ -13,6 +13,7 @@ Die Datenlagen ist nicht erfasst und beim zusammentragen stellt sich heraus grun
 3. Bewertung nach Five Star Open Data Prinzip und Visualisierung
 4. Handlungsempfehlungen je nach Rating für Verwaltung/Parlamentsdienste als Anreiz/Anstoss
 
+
 ##### Deep Dive 
 **A** Vorteile Zentraler API Plattform
 - Zugang zu vorhandenen APIs könnte zentral bereitgestellt werden
@@ -32,7 +33,7 @@ _Rating Stufe 2_: Herausfinden, wer wie und was diese PDFs erstellt/generiert. M
 _Rating Stufe 3_: Parsing von Daten, Bereitstellen von einer API-Verwaltungs-Platform
 
 ###### Was braucht es als Nächstes
-Publikation der Ergebnisse und Aktivierung der kantonalen Vertreter
+Publikation der Ergebnisse und Aktivierung der kantonalen Vertreter (Liste der Parlamentsdienste vertreter)
 Aktivierung der politischen Akteure für allfällige Vorstösse
 
 
