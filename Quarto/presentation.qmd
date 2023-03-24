@@ -1,13 +1,13 @@
 ---
-title: "Parlamentsdaten"
-subtitle: "Eigentlich zugänglich, aber wie "open" und nutzbar genau?"
+title: "Parlamentsdaten: Die Datenlage"
+subtitle: "Eigentlich offen, aber wie zugänglich und nutzbar genau?"
 author: ["Christian Gutknecht", "Michèle Spichtig", "Pirmin Meyer", "Salim Brüggemann", "Selina Frey", "Stefanie Taepke"]
 format: revealjs
 ---
 
 ## Ansatz
 
-Kategorisierung Parlamentsdaten aller Kantone mit einem an angepassten 5 Star Rating.
+Kategorisierung relevanter Entitäten von Parlamentsdaten aller Kantone mit einem an angepassten 5 Star Rating.
 
 0. Nicht Vorhanden
 1. PDF
