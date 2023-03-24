@@ -90,3 +90,6 @@ plotly::save_image(p = barchart,
 
 readr::write_rds(x = heatmap,
                  file = "heatmap.rds")
+
+readr::write_rds(x = barchart,
+                 file = "barchart.rds")
