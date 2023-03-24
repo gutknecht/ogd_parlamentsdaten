@@ -4,6 +4,8 @@ author: ["Christian Gutknecht", "Michèle Spichtig", "Pirmin Meyer", "Salim Brü
 format: revealjs
 ---
 
+# Overview
+
 ## Vision
 
 Einfacher Zugang für Bevölkerung und Politiker zu Parlamentsdaten über alle föderalen Stufen hinweg und über die kantonalen Grenzen hinaus. Für mehr Transparenz, Analysemöglichkeiten und politischer Teilhabe. 
@@ -25,38 +27,49 @@ Die Datenlagen ist nicht erfasst und beim zusammentragen stellt sich heraus grun
 
 ## Datenlage (2)
 
-```{r, heatmap}
+```{r}
+#| label: heatmap
+#| out.width: 100%
+
 readr::read_rds("../R/heatmap.rds")
 ```
 
-## Deep Dive
+## Datenlage (3)
 
-:::: {.columns}
+```{r, barchart}
+#| label: barchart
+#| out.width: 100%
 
-::: {.column width="50%"}
-**A** Vorteile Zentraler API Plattform
+readr::read_rds("../R/barchart.rds")
+```
+
+# Deep Dive
+
+## A) Vorteile Zentraler API Plattform
+
 - Zugang zu vorhandenen APIs könnte zentral bereitgestellt werden
 - Sicherstellung, dass bereits verfügbare APIs an Wahltagen nicht zu Abstürzen von Systemen führen, z.B. durch Caching
 - Datennutzer können komfortabel und selbstständig API-Zugang beantragen
 - Daten-Scraping APIs könnten bereitgestellt werden
 - konsistente Dokumentation und Anwendung
-:::
 
-::: {.column width="50%"}
-**B** Handlungsempfehlungen
+## B) Handlungsempfehlungen
 
-_Rating Stufe 1_: 
-Lokalisierung der Daten in den Organisationen und Klärung der Zuständigkeiten und Verantwortlichkeiten, Berechtigungen, Nutzungsbedingungen.
+::: {.incremental}
+- _Rating Stufe 1_: Lokalisierung der Daten in den Organisationen und Klärung der Zuständigkeiten und Verantwortlichkeiten, Berechtigungen, Nutzungsbedingungen.
                 
-_Rating Stufe 2_:
-Herausfinden, wer wie und was diese PDFs erstellt/generiert. Möglicherweise kann man hier schon ansetzen. Bereitstellen von einfachen Mitteln, zum exemplarischer Digitalisierung von vorhandenen Daten. Zum Beispiel Auslesen der PDFs. 
+- _Rating Stufe 2_: Herausfinden, wer wie und was diese PDFs erstellt/generiert. Möglicherweise kann man hier schon ansetzen. Bereitstellen von einfachen Mitteln, zum exemplarischer Digitalisierung von vorhandenen Daten. Zum Beispiel Auslesen der PDFs. 
 
-_Rating Stufe 3_: Parsing von Daten, Bereitstellen von einer API-Verwaltungs-Platform.Right column
+- _Rating Stufe 3_: Parsing von Daten, Bereitstellen von einer API-Verwaltungs-Platform
 :::
-
-::::
 
 ## Was braucht es als Nächstes
 
-Publikation der Ergebnisse und Aktivierung der kantonalen Vertreter (Liste Kontakt der Parlamendienste in Excel)
-Aktivierung der politischen Akteure für allfällige Vorstösse
+::: {.incremental}
+- Publikation der Ergebnisse und Aktivierung der kantonalen Vertreter (Liste Kontakt der Parlamendienste in Excel)
+- Aktivierung der politischen Akteure für allfällige Vorstösse
+:::
+
+# Thanks
+
+🍻
