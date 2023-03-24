@@ -18,6 +18,8 @@ Die Datenlagen ist nicht erfasst und beim zusammentragen stellt sich heraus grun
 - Daten-Scraping APIs könnten bereitgestellt werden
 - konsistente Dokumentation und Anwendung
 
+![heatmap-short.gif](heatmap-short.gif "Heatmap")
+
 **B** Handlungsempfehlungen
 
 _Rating Stufe 1_: 
