@@ -24,7 +24,7 @@ Kategorisierung relevanter Entitäten von Parlamentsdaten aller Kantone mit eine
 
 ```{r}
 #| label: heatmap
-#| out.width: 100%
+#| height: 100%
 
 readr::read_rds("../R/heatmap.rds")
 ```
@@ -33,7 +33,7 @@ readr::read_rds("../R/heatmap.rds")
 
 ```{r, barchart}
 #| label: barchart
-#| out.width: 100%
+#| height: 100%
 
 readr::read_rds("../R/barchart.rds")
 ```
