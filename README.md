@@ -1,6 +1,3 @@
-# ogd_parlamentsdaten
-Gestartet GovTech Hackathon 2023
-
 ## Vision
 Einfacher Zugang für Bevölkerung und Politiker zu Parlamentsdaten über alle föderalen Stufen hinweg und über die kantonalen Grenzen hinaus. Für mehr Transparenz, Analysemöglichkeiten und politischer Teilhabe. 
 
@@ -13,7 +10,6 @@ Die Datenlagen ist nicht erfasst und beim zusammentragen stellt sich heraus grun
 3. Bewertung nach Five Star Open Data Prinzip und Visualisierung
 4. Handlungsempfehlungen je nach Rating für Verwaltung/Parlamentsdienste als Anreiz/Anstoss
 
-
 ##### Deep Dive 
 **A** Vorteile Zentraler API Plattform
 - Zugang zu vorhandenen APIs könnte zentral bereitgestellt werden
@@ -25,12 +21,12 @@ Die Datenlagen ist nicht erfasst und beim zusammentragen stellt sich heraus grun
 **B** Handlungsempfehlungen
 
 _Rating Stufe 1_: 
-Lokalisierung der Daten in den Organisationen und Klärung der Zuständigkeiten und Verantwortlichkeiten, Berechtigungen, Nutzungsbedingungen
+Lokalisierung der Daten in den Organisationen und Klärung der Zuständigkeiten und Verantwortlichkeiten, Berechtigungen, Nutzungsbedingungen.
                 
 _Rating Stufe 2_:
 Herausfinden, wer wie und was diese PDFs erstellt/generiert. Möglicherweise kann man hier schon ansetzen. Bereitstellen von einfachen Mitteln, zum exemplarischer Digitalisierung von vorhandenen Daten. Zum Beispiel Auslesen der PDFs. 
 
-_Rating Stufe 3_: Parsing von Daten, Bereitstellen von einer API-Verwaltungs-Platform
+_Rating Stufe 3_: Parsing von Daten, Bereitstellen von einer API-Verwaltungs-Platform.
 
 ###### Was braucht es als Nächstes
 Publikation der Ergebnisse und Aktivierung der kantonalen Vertreter (Liste Kontakt der Parlamendienste in Excel)
