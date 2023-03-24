@@ -11,3 +11,4 @@ Vorteile:
 - Sicherstellung, dass bereits verfügbare APIs an Wahltagen nicht zu Abstürzen von Systemen führen, z.B. durch Caching
 - Datennutzer können komfortabel und selbstständig API-Zugang beantragen
 - Daten-Scraping APIs könnten bereitgestellt werden
+- konsistente Dokumentation und Anwendung
