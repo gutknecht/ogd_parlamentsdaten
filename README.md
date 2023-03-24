@@ -33,7 +33,7 @@ Herausfinden, wer wie und was diese PDFs erstellt/generiert. Möglicherweise kan
 _Rating Stufe 3_: Parsing von Daten, Bereitstellen von einer API-Verwaltungs-Platform
 
 ###### Was braucht es als Nächstes
-Publikation der Ergebnisse und Aktivierung der kantonalen Vertreter (Liste der Parlamentsdienste vertreter)
+Publikation der Ergebnisse und Aktivierung der kantonalen Vertreter (Liste Kontakt der Parlamendienste in Excel)
 Aktivierung der politischen Akteure für allfällige Vorstösse
 
 
